@@ -29,7 +29,7 @@
 
 
 
-When I personally tried finding similar I came out basically clean, so I figured why not do it myself and let everyone enjoy it. 
+When I personally tried finding a similar project I came out empty handed, so I figured why not do it myself and let everyone enjoy it. 
 
 Here's why:
 * Simply enjoy sharing it with people
