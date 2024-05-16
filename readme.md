@@ -94,7 +94,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Zaptons - [Zaptons.com](https://zaptons.com/) - support@fuckprim.com
+Zaptons: DC: Zaptons- support@zaptons.com - releaselua@proton.me
 
 
 
